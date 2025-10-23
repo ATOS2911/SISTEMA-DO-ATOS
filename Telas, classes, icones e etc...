@@ -1,0 +1,3 @@
+br.com.loja.telas    → onde ficam as telas (ex: TelaLogin.java)
+br.com.loja.dal      → onde ficam as classes de acesso a dados (ex: ModuloConexao.java)
+br.com.loja.icones   → onde ficam os ícones (se for usar)
